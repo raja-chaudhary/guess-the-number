@@ -4,7 +4,7 @@
 * You need to guess a number between 1 and 100 within the given number of attempts.
 * Number of attempts for the game depends on the difficulty you select.
 * Easy == 10 attempts
-* Hard == 10 attempts
+* Hard == 5 attempts
 * You win if you guess the number before the attempts run out.
 
 In order to play the game follow the steps as mentioned:
